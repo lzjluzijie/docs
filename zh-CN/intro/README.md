@@ -8,7 +8,7 @@ Macaron 是一个具有高生产力和模块化设计的 Go Web 框架。框架�
 
 [API 指南](https://gowalker.org/gopkg.in/macaron.v1)
 
-Go 语言的最低版本要求为 **1.3**。
+Go 语言的最低版本要求为 **1.5**。
 
 ## 主要特性
 
